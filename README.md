@@ -109,7 +109,7 @@ Lista de pedidos com status e ícone de cor, opção de deletar | Histórico do 
 
 ## 🎬 Pitch
 
-> Link do vídeo no YouTube: 
+> Link do vídeo no YouTube: https://youtu.be/vzrnQ3tBUyg
 
 ---
 
